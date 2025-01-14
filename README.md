@@ -29,7 +29,7 @@ Before starting, ensure the following are installed on your machine:
 
 ### **2. Clone the Repository**
 ```bash
-git clone <repository_url>
+git clone https://github.com/imayden/project-management.git
 cd project-management
 ```
 
